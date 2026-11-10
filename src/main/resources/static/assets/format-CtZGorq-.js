@@ -1,0 +1,1 @@
+import{y as s}from"./index-CU75PviE.js";const a=t=>t?s(t).format("YYYY-MM-DD HH:mm:ss"):"-",o=t=>Number(t||0).toFixed(2),r={0:{text:"借阅中",type:"warning"},1:{text:"已归还",type:"success"},2:{text:"已逾期",type:"danger"}};export{o as a,r as b,a as f};
